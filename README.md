@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Revanth Srinivas (@Reva-Kovuru)
 - 👀 I’m very interested in translating thoughts to working tools using the power of programming.
-- 🌱 I have created a 2D game with Unity Engine in C#
-- 🌱 I'm also into Machine Learning
+- 🌱 I had created a 2D game with Unity Engine in C#
+- 🌱 I'm currently working on FullStack Development
 - 💞️ I’m looking to collaborate on **Python** or **Java** based projects. 
 - 📫 Here is my [LinkedIn](https://www.linkedin.com/in/revanthsrinivaskovuru/) account. Feel free to text me!! 
 
